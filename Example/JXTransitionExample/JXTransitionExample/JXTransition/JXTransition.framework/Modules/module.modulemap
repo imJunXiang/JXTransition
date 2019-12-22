@@ -1,0 +1,6 @@
+framework module JXTransition {
+  umbrella header "JXTransition.h"
+
+  export *
+  module * { export * }
+}
